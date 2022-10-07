@@ -1,11 +1,10 @@
 plugin: aws_ec2
 
-#aws_access_key: 
-#aws_secret_key: 
+aws_access_key: AKIAXYFXN5Q3MXSTKI5O
+aws_secret_key: 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
 
 regions:
   - ap-south-1
-  - us-west-1
 
 filters:
   instance-state-name : running
